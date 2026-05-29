@@ -151,3 +151,10 @@ To build a standalone Android package (`.apk`):
    ./gradlew assembleRelease
    ```
    The compiled APK will be located at: `android/app/build/outputs/apk/release/app-release.apk`
+
+
+
+   Team mumbers:
+   B Vasudeva reddy    KUB23CSE019
+   B M Lokesha         KUB23CSE020
+   B Y Sanjay          KUB23CSE021

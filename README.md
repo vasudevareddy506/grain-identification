@@ -175,6 +175,8 @@ To build a standalone Android package (`.apk`):
 
 
    Team mumbers:
-   B Vasudeva reddy    KUB23CSE019  \n
-   B M Lokesha         KUB23CSE020  \n
-   B Y Sanjay          KUB23CSE021  \n
+   B Vasudeva reddy    KUB23CSE019
+   
+   B M Lokesha         KUB23CSE020
+   
+   B Y Sanjay          KUB23CSE021  

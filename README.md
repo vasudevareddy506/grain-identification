@@ -78,6 +78,7 @@ The backend hosts the SQLite database, stores user scan history, serves static u
    ```
 2. **Access API Documentation (Swagger):**
    Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser.
+<img width="1835" height="873" alt="image" src="https://github.com/user-attachments/assets/bf0bac72-4f3c-4c2d-9e65-6411ce530f3e" />
 
 ---
 

@@ -103,11 +103,14 @@ The app is built using **React Native with Expo** for fast compiling and modern 
      npm run web
      ```
      <img width="1915" height="975" alt="image" src="https://github.com/user-attachments/assets/73cc065b-e503-4cd0-8f34-0c49950d7c4f" />
+     
      <img width="1919" height="977" alt="Screenshot 2026-05-30 073213" src="https://github.com/user-attachments/assets/5dd248ed-0637-4472-80f1-298bf1e30242" />
 
     <img width="1914" height="967" alt="image" src="https://github.com/user-attachments/assets/f129c7a0-e946-4f7b-9041-48c3d196b9c2" />
+    
     <img width="1915" height="971" alt="image" src="https://github.com/user-attachments/assets/5446f2b5-1184-4b2c-9c25-fef2ffda5121" />
-<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/aeaf966d-3ff3-4681-846f-91118a78d160" />
+    
+    <img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/aeaf966d-3ff3-4681-846f-91118a78d160" />
 
 
 
@@ -175,6 +178,7 @@ To build a standalone Android package (`.apk`):
 
 
    Team mumbers:
+
    B Vasudeva reddy    KUB23CSE019
    
    B M Lokesha         KUB23CSE020

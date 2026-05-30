@@ -113,6 +113,8 @@ The app is built using **React Native with Expo** for fast compiling and modern 
 
    - Run on mobile device:
      Install the **Expo Go** app on your phone, run `npx expo start`, and scan the QR code.
+     <img width="1504" height="945" alt="image" src="https://github.com/user-attachments/assets/7225467e-b319-42a6-a78e-e7012aa426e4" />
+
 
 3. **Configure API Server IP (Optional):**
    If testing on a physical phone, go to **Settings** in the app, disable **Offline Prediction**, and enter your computer's local LAN IP address (e.g. `192.168.1.55:8000`).

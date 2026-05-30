@@ -169,11 +169,12 @@ To build a standalone Android package (`.apk`):
    ./gradlew assembleRelease
    ```
    The compiled APK will be located at: `android/app/build/outputs/apk/release/app-release.apk`
+
    The android output : 'exp://exp.host/@lokesha/grain-vision'
 
 
 
    Team mumbers:
-   B Vasudeva reddy    KUB23CSE019
-   B M Lokesha         KUB23CSE020
-   B Y Sanjay          KUB23CSE021
+   B Vasudeva reddy    KUB23CSE019  \n
+   B M Lokesha         KUB23CSE020  \n
+   B Y Sanjay          KUB23CSE021  \n

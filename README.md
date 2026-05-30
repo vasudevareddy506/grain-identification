@@ -80,6 +80,11 @@ The backend hosts the SQLite database, stores user scan history, serves static u
    Open [http://localhost:8000/docs](http://localhost:8000/docs) in your browser.
 <img width="1835" height="873" alt="image" src="https://github.com/user-attachments/assets/bf0bac72-4f3c-4c2d-9e65-6411ce530f3e" />
 
+<img width="1843" height="884" alt="image" src="https://github.com/user-attachments/assets/3d0036e8-2aa4-43ce-ac2c-32796a6e3c0d" />
+
+<img width="1844" height="869" alt="image" src="https://github.com/user-attachments/assets/cc68430d-6e00-4451-8d29-7ba62025710d" />
+
+
 ---
 
 ## 3. Running the Mobile Application (frontend/)

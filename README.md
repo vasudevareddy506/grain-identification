@@ -177,7 +177,7 @@ To build a standalone Android package (`.apk`):
 
 
 
-   **Team mumbers:**
+   **Team members:**
 
    B Vasudeva reddy    KUB23CSE019
    
